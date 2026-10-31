@@ -56,6 +56,8 @@ This project brings those datasets together in one Power BI report while respect
 
 *Click the image to watch the full dashboard demonstration.*
 
+[Power BI Service](https://app.powerbi.com/links/BTAzBvAnP9?ctid=2b773d99-f229-4704-b562-5a3198831779&pbi_source=linkShare&bookmarkGuid=f0842962-6668-4ded-a780-137a14f8f404)
+
 ## 🖼️ Visual Preview
 
 ### Landing Page
