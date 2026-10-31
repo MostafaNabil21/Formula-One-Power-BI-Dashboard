@@ -56,6 +56,61 @@ This project brings those datasets together in one Power BI report while respect
 
 ## 🖼️ Visual Preview
 
+### Landing Page
+![Landing Page](images/landingPage.png)
+
+### Overview
+![Overview Dashboard](images/Overview.png)
+
+### Driver Analysis
+![Driver Analysis](images/DriverAnlaysis.png)
+
+### Driver Performance
+![Driver Performance](images/DriverPerformance.png)
+
+### Driver Comparisons
+![Head to Head I](images/Head-to-Head-I.png)
+
+![Head to Head II](images/Head-to-Head-II.png)
+
+### Teams Performance
+![Teams Performance](images/TeamPerformance.png)
+
+### Team Results
+![Team Results](images/TeamResults.png)
+
+### Team Car
+![Team Car](images/teamCar.png)
+
+### Races Analysis
+![Races Analysis](images/RacesAnalysis.png)
+
+### Qualifying Analysis
+![Qualifying Analysis](images/QualifyingAnalysis.png)
+
+### Lap Analysis
+![Lap Analysis](images/LapAnalysis.png)
+
+### Pit Stops Analysis
+![Pit Stops Analysis](images/pitStops.png)
+
+### Circuits Analysis
+![Circuits Analysis](images/CircuitsAnalysis.png)
+
+### DNF Analysis
+![DNF Analysis](images/DNFAnalysis.png)
+
+### Race Conditions
+![Race Conditions I](images/Race-Conditions-I.png)
+
+![Race Conditions II](images/Race-Conditions-II.png)
+
+### Sprint Analysis
+![Sprint Analysis](images/SprintAnalysis.png)
+
+### Championship History
+![Championship Hsitory](images/championshipAnalysis.png)
+
 
 ### Project Highlights
 
