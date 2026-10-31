@@ -1,6 +1,7 @@
 # 🏎️ Formula 1 Analytics Dashboard | Power BI
 
 <div align="center">
+<h2>Exploring Formula 1 History Through Data - 1950 to 2026</h2>
 
 [![Formula 1](https://img.shields.io/badge/Formula_1-Analytics-E10600?style=for-the-badge&logo=formula1&logoColor=white)](https://www.formula1.com/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
@@ -10,9 +11,6 @@
 ![CSV](https://img.shields.io/badge/Data-CSV-217346?style=for-the-badge)
 
 </div>
-
-
-## Exploring Formula 1 History Through Data --- 1950 to 2026
 
 An interactive, multi-page **Formula 1 analytics report built with Microsoft Power BI**, designed to explore driver performance, constructor results, race outcomes, qualifying, lap times, pit stops, reliability, circuits, sprint race, and championship history.
 
