@@ -41,7 +41,6 @@ the dashboard does not treat every metric as available for every season. Slicers
  - Key Analytical Questions
  - Limitations
  - How to Use
- - Repository Structure
  - Skills Demonstrated
  - Buit With
 
@@ -663,23 +662,6 @@ For these reasons, historical comparisons should consider the relevant season, t
 7. Explore the report using its navigation, slicers, and interactive visuals.
 
 **Note:** The exact setup steps depends on how the .pbix file and source data are organized in the repository.
-
-## 📁 Repository Structure
-
-A repository structure is:
-
-F1-Power-BI-Dashboard/
-│
-├── README.md
-│
-├── Formula1_Dashboard.pbix
-│
-└── images/
-   ├── overview.png
-   ├── driver-performance.png
-   ├── head-to-head.png
-   ├── team-performance.png
-   └── race-analysis.png
 
 ## 💡 Skills Demonstrated
 
