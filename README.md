@@ -52,6 +52,9 @@ This project brings those datasets together in one Power BI report while respect
 
 ## 🎬 Project Demo
 
+[![Watch Dashboard Demo](images/landingPage.png)](https://youtu.be/CvIGxFecIu0)
+
+*Click the image to watch the full dashboard demonstration.*
 
 ## 🖼️ Visual Preview
 
